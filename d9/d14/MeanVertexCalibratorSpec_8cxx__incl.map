@@ -1,0 +1,59 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/Calibration/workflow/src/MeanVertexCalibratorSpec.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/Calibration/workflow/src/MeanVertexCalibratorSpec.cxx">
+<area shape="rect" id="node2" href="$d2/d43/ControlService_8h.html" title="Framework/ControlService.h" alt="" coords="3189,146,3394,173"/>
+<area shape="rect" id="node5" href="$de/dc6/ConfigParamRegistry_8h.html" title="Framework/ConfigParamRegistry.h" alt="" coords="4434,385,4677,411"/>
+<area shape="rect" id="node23" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="5,831,159,858"/>
+<area shape="rect" id="node25" href="$d2/d6a/MeanVertexCalibratorSpec_8h.html" title="Device to calibrate MeanVertex. " alt="" coords="2849,139,3065,180"/>
+<area shape="rect" id="node82" href="$d4/dab/CcdbObjectInfo_8h.html" title="CCDB/CcdbObjectInfo.h" alt="" coords="99,653,273,679"/>
+<area shape="rect" id="node85" href="$d3/de0/Detectors_2Calibration_2include_2DetectorsCalibration_2Utils_8h.html" title="DetectorsCalibration\l/Utils.h" alt="" coords="5385,467,5541,508"/>
+<area shape="rect" id="node91" href="$d7/d82/MeanVertexParams_8h.html" title="DetectorsCalibration\l/MeanVertexParams.h" alt="" coords="5961,377,6123,419"/>
+<area shape="rect" id="node97" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="6467,563,6595,590"/>
+<area shape="rect" id="node3" href="$d3/d28/ServiceHandle_8h.html" title="Framework/ServiceHandle.h" alt="" coords="3117,742,3321,769"/>
+<area shape="rect" id="node6" href="$df/d72/ParamRetriever_8h.html" title="Framework/ParamRetriever.h" alt="" coords="3676,563,3885,590"/>
+<area shape="rect" id="node19" href="$dd/daf/ConfigParamStore_8h.html" title="Framework/ConfigParamStore.h" alt="" coords="3825,474,4051,501"/>
+<area shape="rect" id="node7" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="3668,653,3891,679"/>
+<area shape="rect" id="node8" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="4293,742,4449,769"/>
+<area shape="rect" id="node9" href="$d1/d76/RuntimeError_8h.html" title="Framework/RuntimeError.h" alt="" coords="1633,831,1827,858"/>
+<area shape="rect" id="node26" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="3387,228,3622,255"/>
+<area shape="rect" id="node69" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="2277,228,2415,255"/>
+<area shape="rect" id="node74" href="$de/d56/MeanVertexCalibrator_8h.html" title="DetectorsCalibration\l/MeanVertexCalibrator.h" alt="" coords="603,556,782,597"/>
+<area shape="rect" id="node27" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="2338,303,2543,329"/>
+<area shape="rect" id="node30" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="3701,742,3863,769"/>
+<area shape="rect" id="node57" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="3669,303,3908,329"/>
+<area shape="rect" id="node58" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="4184,474,4359,501"/>
+<area shape="rect" id="node67" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="4733,563,4919,590"/>
+<area shape="rect" id="node68" href="$d8/d02/CommonServices_8h.html" title="Framework/CommonServices.h" alt="" coords="3218,563,3442,590"/>
+<area shape="rect" id="node28" href="$de/d6a/ProcessingContext_8h.html" title="Framework/ProcessingContext.h" alt="" coords="2608,385,2839,411"/>
+<area shape="rect" id="node53" href="$d7/dad/ErrorContext_8h.html" title="Framework/ErrorContext.h" alt="" coords="2474,474,2666,501"/>
+<area shape="rect" id="node54" href="$d4/d2b/InitContext_8h.html" title="Framework/InitContext.h" alt="" coords="2349,385,2532,411"/>
+<area shape="rect" id="node55" href="$de/d9b/FunctionalHelpers_8h.html" title="Framework/FunctionalHelpers.h" alt="" coords="1827,385,2054,411"/>
+<area shape="rect" id="node29" href="$d6/d5c/InputRecord_8h.html" title="Framework/InputRecord.h" alt="" coords="3029,653,3215,679"/>
+<area shape="rect" id="node38" href="$d1/d28/DataAllocator_8h.html" title="Framework/DataAllocator.h" alt="" coords="2251,474,2449,501"/>
+<area shape="rect" id="node31" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="4589,831,4783,858"/>
+<area shape="rect" id="node32" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="4899,742,5068,769"/>
+<area shape="rect" id="node39" href="$d8/d17/ServiceRegistry_8h.html" title="Framework/ServiceRegistry.h" alt="" coords="2288,563,2497,590"/>
+<area shape="rect" id="node40" href="$d4/d61/ServiceSpec_8h.html" title="Framework/ServiceSpec.h" alt="" coords="2410,653,2599,679"/>
+<area shape="rect" id="node46" href="$d2/d9a/TypeIdHelpers_8h.html" title="Framework/TypeIdHelpers.h" alt="" coords="3239,653,3442,679"/>
+<area shape="rect" id="node41" href="$dc/df0/DeviceMetricsInfo_8h.html" title="Framework/DeviceMetricsInfo.h" alt="" coords="2509,742,2735,769"/>
+<area shape="rect" id="node44" href="$d7/d58/DeviceInfo_8h.html" title="Framework/DeviceInfo.h" alt="" coords="2760,742,2940,769"/>
+<area shape="rect" id="node47" href="$db/dff/StringHelpers_8h.html" title="Framework/StringHelpers.h" alt="" coords="4625,742,4824,769"/>
+<area shape="rect" id="node56" href="$dd/dce/Pack_8h.html" title="Framework/Pack.h" alt="" coords="2036,474,2176,501"/>
+<area shape="rect" id="node59" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="5184,653,5348,679"/>
+<area shape="rect" id="node60" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="4858,653,5109,679"/>
+<area shape="rect" id="node61" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="4325,556,4521,597"/>
+<area shape="rect" id="node62" href="$d6/dc9/DataProcessingHeader_8h.html" title="Framework/DataProcessing\lHeader.h" alt="" coords="5524,645,5723,687"/>
+<area shape="rect" id="node63" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="4511,653,4639,679"/>
+<area shape="rect" id="node70" href="$d9/d7f/CallbackService_8h.html" title="Framework/CallbackService.h" alt="" coords="1331,385,1545,411"/>
+<area shape="rect" id="node73" href="$d0/d77/EndOfStreamContext_8h.html" title="Framework/EndOfStreamContext.h" alt="" coords="2079,385,2325,411"/>
+<area shape="rect" id="node71" href="$d7/d3e/CallbackRegistry_8h.html" title="A generic registry for callbacks. " alt="" coords="1333,474,1474,501"/>
+<area shape="rect" id="node75" href="$dc/df2/TimeSlotCalibration_8h.html" title="DetectorsCalibration\l/TimeSlotCalibration.h" alt="" coords="992,645,1159,687"/>
+<area shape="rect" id="node76" href="$dd/d77/TimeSlot_8h.html" title="DetectorsCalibration\l/TimeSlot.h" alt="" coords="615,735,771,776"/>
+<area shape="rect" id="node79" href="$d5/db6/MeanVertexData_8h.html" title="DetectorsCalibration\l/MeanVertexData.h" alt="" coords="737,645,893,687"/>
+<area shape="rect" id="node81" href="$de/dfb/MeanVertexObject_8h.html" title="DataFormatsCalibration\l/MeanVertexObject.h" alt="" coords="361,735,539,776"/>
+<area shape="rect" id="node83" href="$d4/d5d/Bracket_8h.html" title="Class to represent an interval and some operations over it. " alt="" coords="297,653,488,679"/>
+<area shape="rect" id="node80" href="$d7/d82/PrimaryVertex_8h.html" title="ReconstructionDataFormats\l/PrimaryVertex.h" alt="" coords="846,735,1049,776"/>
+<area shape="rect" id="node84" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="171,742,337,769"/>
+<area shape="rect" id="node88" href="$d1/d1e/Common_2Utils_2include_2CommonUtils_2StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="5298,563,5493,590"/>
+<area shape="rect" id="node90" href="$da/d86/CCDBTimeStampUtils_8h.html" title="CCDB/CCDBTimeStampUtils.h" alt="" coords="5787,563,6004,590"/>
+<area shape="rect" id="node92" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="6218,556,6415,597"/>
+<area shape="rect" id="node95" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="5943,467,6141,508"/>
+</map>

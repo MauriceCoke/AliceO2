@@ -1,0 +1,25 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/CPV/simulation/src/Digitizer.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/CPV/simulation/src/Digitizer.cxx">
+<area shape="rect" id="node2" href="$d4/d37/CPV_2simulation_2include_2CPVSimulation_2Digitizer_8h.html" title="CPVSimulation/Digitizer.h" alt="" coords="1774,124,1962,151"/>
+<area shape="rect" id="node39" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1197,199,1366,240"/>
+<area shape="rect" id="node48" href="$de/d2a/CPVSimParams_8h.html" title="CPVBase/CPVSimParams.h" alt="" coords="2912,124,3107,151"/>
+<area shape="rect" id="node58" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="2811,206,2939,233"/>
+<area shape="rect" id="node3" href="$de/dfb/DataFormats_2Detectors_2CPV_2include_2DataFormatsCPV_2Digit_8h.html" title="DataFormatsCPV/Digit.h" alt="" coords="651,295,829,322"/>
+<area shape="rect" id="node11" href="$de/ddd/CPV_2base_2include_2CPVBase_2Geometry_8h.html" title="CPVBase/Geometry.h" alt="" coords="2174,206,2333,233"/>
+<area shape="rect" id="node15" href="$dc/d40/CPV_2calib_2include_2CPVCalib_2CalibParams_8h.html" title="CPVCalib/CalibParams.h" alt="" coords="2581,206,2760,233"/>
+<area shape="rect" id="node18" href="$db/dd0/Detectors_2CPV_2base_2include_2CPVBase_2Hit_8h.html" title="CPVBase/Hit.h" alt="" coords="1811,206,1925,233"/>
+<area shape="rect" id="node40" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1442,199,1611,240"/>
+<area shape="rect" id="node5" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="153,385,402,411"/>
+<area shape="rect" id="node6" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="33,474,199,501"/>
+<area shape="rect" id="node8" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="2171,556,2314,583"/>
+<area shape="rect" id="node9" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="2041,631,2239,657"/>
+<area shape="rect" id="node10" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="2263,631,2428,657"/>
+<area shape="rect" id="node19" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1675,288,1845,329"/>
+<area shape="rect" id="node31" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1869,295,2083,322"/>
+<area shape="rect" id="node20" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="1513,385,1676,411"/>
+<area shape="rect" id="node30" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="2280,474,2467,501"/>
+<area shape="rect" id="node32" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="2737,385,2948,411"/>
+<area shape="rect" id="node49" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="3556,288,3753,329"/>
+<area shape="rect" id="node55" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="3297,199,3495,240"/>
+<area shape="rect" id="node61" href="$d4/dab/CcdbObjectInfo_8h.html" title="CCDB/CcdbObjectInfo.h" alt="" coords="3066,295,3241,322"/>
+<area shape="rect" id="node62" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="3147,385,3301,411"/>
+</map>

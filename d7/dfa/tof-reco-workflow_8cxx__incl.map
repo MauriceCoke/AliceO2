@@ -1,0 +1,74 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/GlobalTrackingWorkflow/tofworkflow/src/tof&#45;reco&#45;workflow.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/GlobalTrackingWorkflow/tofworkflow/src/tof&#45;reco&#45;workflow.cxx">
+<area shape="rect" id="node2" href="$d2/df9/Propagator_8h.html" title="DetectorsBase/Propagator.h" alt="" coords="968,221,1171,247"/>
+<area shape="rect" id="node24" href="$de/daa/TrackTPCITSReaderSpec_8h.html" title="GlobalTrackingWorkflow\l/TrackTPCITSReaderSpec.h" alt="" coords="2065,124,2258,165"/>
+<area shape="rect" id="node30" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="3775,489,3998,515"/>
+<area shape="rect" id="node49" href="$d5/da0/TOF_2workflow_2include_2TOFWorkflowUtils_2DigitReaderSpec_8h.html" title="TOFWorkflowUtils/DigitReader\lSpec.h" alt="" coords="2410,213,2627,255"/>
+<area shape="rect" id="node52" href="$d1/d0b/TOFDigitWriterSpec_8h.html" title="TOFWorkflowUtils/TOFDigit\lWriterSpec.h" alt="" coords="4636,124,4833,165"/>
+<area shape="rect" id="node53" href="$d8/d8a/TOF_2workflow_2include_2TOFWorkflowUtils_2ClusterReaderSpec_8h.html" title="TOFWorkflowUtils/Cluster\lReaderSpec.h" alt="" coords="2199,213,2385,255"/>
+<area shape="rect" id="node56" href="$d1/d97/TOFClusterizerSpec_8h.html" title="TOFWorkflowUtils/TOFClusterizer\lSpec.h" alt="" coords="4858,124,5094,165"/>
+<area shape="rect" id="node57" href="$d3/dba/TOFClusterWriterSpec_8h.html" title="TOFWorkflowUtils/TOFCluster\lWriterSpec.h" alt="" coords="5242,124,5454,165"/>
+<area shape="rect" id="node58" href="$dd/d0f/TOFMatchedWriterSpec_8h.html" title="TOFWorkflow/TOFMatchedWriter\lSpec.h" alt="" coords="4149,124,4379,165"/>
+<area shape="rect" id="node59" href="$dd/d45/TOFCalibWriterSpec_8h.html" title="TOFWorkflow/TOFCalibWriter\lSpec.h" alt="" coords="4404,124,4612,165"/>
+<area shape="rect" id="node60" href="$dc/df7/TOFRawWriterSpec_8h.html" title="TOFWorkflowUtils/TOFRawWriter\lSpec.h" alt="" coords="2739,213,2973,255"/>
+<area shape="rect" id="node63" href="$db/d4c/CompressedDecodingTask_8h.html" title="TOF compressed data decoding task. " alt="" coords="2997,213,3219,255"/>
+<area shape="rect" id="node67" href="$d6/daa/TOF_2workflow_2include_2TOFWorkflowUtils_2EntropyEncoderSpec_8h.html" title="TOFWorkflowUtils/Entropy\lEncoderSpec.h" alt="" coords="3243,213,3434,255"/>
+<area shape="rect" id="node70" href="$d8/d6f/TOF_2workflow_2include_2TOFWorkflowUtils_2EntropyDecoderSpec_8h.html" title="TOFWorkflowUtils/Entropy\lDecoderSpec.h" alt="" coords="3458,213,3649,255"/>
+<area shape="rect" id="node71" href="$df/da1/WorkflowSpec_8h.html" title="Framework/WorkflowSpec.h" alt="" coords="5111,221,5313,247"/>
+<area shape="rect" id="node72" href="$df/d12/RecoWorkflowSpec_8h.html" title="TOFWorkflow/RecoWorkflow\lSpec.h" alt="" coords="3599,124,3801,165"/>
+<area shape="rect" id="node74" href="$db/dc5/RangeTokenizer_8h.html" title="Helper function to tokenize sequences and ranges of integral numbers. " alt="" coords="6509,399,6713,426"/>
+<area shape="rect" id="node77" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="3927,124,4124,165"/>
+<area shape="rect" id="node83" href="$d7/d61/NameConf_8h.html" title="Definition of the Names Generator class. " alt="" coords="6645,303,6873,344"/>
+<area shape="rect" id="node85" href="$de/d28/GRPObject_8h.html" title="Header of the General Run Parameters object. " alt="" coords="4581,392,4761,433"/>
+<area shape="rect" id="node88" href="$db/d8e/FT0_2workflow_2include_2FT0Workflow_2RecPointReaderSpec_8h.html" title="FT0Workflow/RecPointReader\lSpec.h" alt="" coords="1792,213,2003,255"/>
+<area shape="rect" id="node91" href="$db/dd0/runDataProcessing_8h.html" title="Framework/runDataProcessing.h" alt="" coords="5528,131,5760,158"/>
+<area shape="rect" id="node4" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="61,749,337,776"/>
+<area shape="rect" id="node5" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="1157,392,1360,433"/>
+<area shape="rect" id="node15" href="$d7/d99/DCA_8h.html" title="ReconstructionDataFormats\l/DCA.h" alt="" coords="856,571,1059,612"/>
+<area shape="rect" id="node16" href="$d6/db1/TrackLTIntegral_8h.html" title="Track Length and TOF integral. " alt="" coords="1225,303,1428,344"/>
+<area shape="rect" id="node17" href="$d9/da9/MatLayerCylSet_8h.html" title="Declarations for the wrapper for the set of cylindrical material layers. " alt="" coords="480,303,683,344"/>
+<area shape="rect" id="node6" href="$d2/d98/TrackParametrization_8h.html" title="ReconstructionDataFormats\l/TrackParametrization.h" alt="" coords="1083,571,1285,612"/>
+<area shape="rect" id="node14" href="$d3/d30/TrackParametrizationWithError_8h.html" title="ReconstructionDataFormats\l/TrackParametrizationWithError.h" alt="" coords="1056,481,1291,523"/>
+<area shape="rect" id="node7" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="638,667,781,694"/>
+<area shape="rect" id="node8" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="874,749,1041,776"/>
+<area shape="rect" id="node13" href="$d5/d08/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2PID_8h.html" title="ReconstructionDataFormats\l/PID.h" alt="" coords="104,660,307,701"/>
+<area shape="rect" id="node18" href="$da/df3/MatLayerCyl_8h.html" title="Declarations for single cylindrical material layer class. " alt="" coords="766,489,981,515"/>
+<area shape="rect" id="node19" href="$db/dff/FlatObject_8h.html" title="Definition of FlatObject class. " alt="" coords="1665,578,1765,605"/>
+<area shape="rect" id="node22" href="$d4/d1b/Ray_8h.html" title="DetectorsBase/Ray.h" alt="" coords="367,399,523,426"/>
+<area shape="rect" id="node23" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="195,578,357,605"/>
+<area shape="rect" id="node27" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="3808,310,4043,337"/>
+<area shape="rect" id="node42" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="2699,310,2837,337"/>
+<area shape="rect" id="node46" href="$d5/d1e/TrackTPCITS_8h.html" title="Result of refitting TPC&#45;ITS matched track. " alt="" coords="1219,213,1421,255"/>
+<area shape="rect" id="node48" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1998,303,2167,344"/>
+<area shape="rect" id="node28" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="5964,399,6169,426"/>
+<area shape="rect" id="node34" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="3841,399,4079,426"/>
+<area shape="rect" id="node35" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="5166,489,5327,515"/>
+<area shape="rect" id="node36" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="4103,399,4278,426"/>
+<area shape="rect" id="node37" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="3115,489,3301,515"/>
+<area shape="rect" id="node40" href="$d8/d02/CommonServices_8h.html" title="Framework/CommonServices.h" alt="" coords="4988,399,5212,426"/>
+<area shape="rect" id="node31" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="3059,578,3215,605"/>
+<area shape="rect" id="node38" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2814,578,2983,605"/>
+<area shape="rect" id="node43" href="$d9/d7f/CallbackService_8h.html" title="Framework/CallbackService.h" alt="" coords="1934,399,2149,426"/>
+<area shape="rect" id="node44" href="$d0/d77/EndOfStreamContext_8h.html" title="Framework/EndOfStreamContext.h" alt="" coords="2173,399,2419,426"/>
+<area shape="rect" id="node47" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="482,578,731,605"/>
+<area shape="rect" id="node50" href="$d1/d90/Detectors_2TOF_2base_2include_2TOFBase_2Digit_8h.html" title="TOFBase/Digit.h" alt="" coords="2494,489,2621,515"/>
+<area shape="rect" id="node51" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="1638,392,1807,433"/>
+<area shape="rect" id="node54" href="$d1/d50/DataFormats_2Detectors_2TOF_2include_2DataFormatsTOF_2Cluster_8h.html" title="DataFormatsTOF/Cluster.h" alt="" coords="2432,310,2624,337"/>
+<area shape="rect" id="node55" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="3497,489,3751,515"/>
+<area shape="rect" id="node61" href="$d5/d90/Detectors_2TOF_2reconstruction_2include_2TOFReconstruction_2Encoder_8h.html" title="TOFReconstruction/Encoder.h" alt="" coords="2728,399,2939,426"/>
+<area shape="rect" id="node64" href="$d9/d06/DecoderBase_8h.html" title="TOFReconstruction/Decoder\lBase.h" alt="" coords="3217,392,3418,433"/>
+<area shape="rect" id="node65" href="$d4/d36/Detectors_2TOF_2reconstruction_2include_2TOFReconstruction_2Decoder_8h.html" title="TOFReconstruction/Decoder.h" alt="" coords="2493,399,2705,426"/>
+<area shape="rect" id="node68" href="$db/dd1/TOF_2reconstruction_2include_2TOFReconstruction_2CTFCoder_8h.html" title="TOFReconstruction/CTFCoder.h" alt="" coords="3494,399,3714,426"/>
+<area shape="rect" id="node69" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="4499,481,4727,523"/>
+<area shape="rect" id="node73" href="$d4/d70/MatchInfoTOF_8h.html" title="Class to store the output of the matching to TOF. " alt="" coords="1515,213,1717,255"/>
+<area shape="rect" id="node84" href="$d1/d1e/Common_2Utils_2include_2CommonUtils_2StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="6737,399,6932,426"/>
+<area shape="rect" id="node87" href="$da/d58/Units_8h.html" title="Header to collect definitions for different units. " alt="" coords="4307,489,4475,515"/>
+<area shape="rect" id="node89" href="$db/dff/RootSerializationSupport_8h.html" title="Framework/RootSerialization\lSupport.h" alt="" coords="1715,303,1923,344"/>
+<area shape="rect" id="node90" href="$d4/d57/RecPoints_8h.html" title="Definition of the FIT RecPoints class. " alt="" coords="533,489,741,515"/>
+<area shape="rect" id="node92" href="$dd/d0f/ChannelConfigurationPolicy_8h.html" title="Framework/ChannelConfiguration\lPolicy.h" alt="" coords="6194,392,6433,433"/>
+<area shape="rect" id="node93" href="$df/dd6/CompletionPolicy_8h.html" title="Framework/CompletionPolicy.h" alt="" coords="5438,399,5661,426"/>
+<area shape="rect" id="node94" href="$da/de6/DispatchPolicy_8h.html" title="Framework/DispatchPolicy.h" alt="" coords="5685,399,5889,426"/>
+<area shape="rect" id="node95" href="$d7/d2e/ConfigContext_8h.html" title="Framework/ConfigContext.h" alt="" coords="5439,221,5641,247"/>
+<area shape="rect" id="node96" href="$d3/d7e/BoostOptionsRetriever_8h.html" title="Framework/BoostOptionsRetriever.h" alt="" coords="4302,399,4557,426"/>
+<area shape="rect" id="node97" href="$da/def/CustomWorkflowTerminationHook_8h.html" title="Framework/CustomWorkflow\lTerminationHook.h" alt="" coords="5767,213,5975,255"/>
+<area shape="rect" id="node98" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="5999,221,6153,247"/>
+</map>
